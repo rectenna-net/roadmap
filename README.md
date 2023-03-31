@@ -1,5 +1,8 @@
 # [roadmap](http://roadmap.rectenna.net)
 
+Energy harvesting in 4 steps and more than 10 years.
+From indoor to space solutions, from 1 meters to 30km with microwaves and laser technologies:
+
 1. Indoor, 1 year deployment
 2. Outdoor, 2 years deployment
 3. Drones, 5 years deployment
