@@ -11,7 +11,7 @@
 ### specification
 
 + distance: 10m
-+ band: wifi6e
++ band: wifi 6e, wifi 7
 + frequency: 2.4 Ghz, 5Ghz, 6-7Ghz
 
 ### area:
@@ -33,19 +33,25 @@
 ### specification:
 
 + distance: 100m
-+ band:
++ band: 5G
 + frequency: 26-35Ghz
 
 
 ### area:
 
-+ Transportations
++ Transportation:
+  + refrigerated vehicles
++ Smart City:
+  + sensors
++ Wearable  
 
 
 ### use case:
 
 + supertag
-+ refrigerated cars
++ IoT sensors
+
+
 
 
 
