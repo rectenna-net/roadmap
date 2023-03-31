@@ -73,7 +73,10 @@ uzasadnienie ekonomiczne jest tam, gdzie:
 + wireless price tag with a screen
 
 
+### Klienci
 
++ firmy europejskie związane z budowaniem infrastruktury 5G
++ 
 
 
 ## 2. Outdoor
