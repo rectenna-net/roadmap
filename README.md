@@ -1,9 +1,9 @@
 # [roadmap](http://roadmap.rectenna.net)
 
-+ 1. Indoor, 1 year deployment
-+ 2. Outdoor, 2 years deployment
-+ 3. Drones, 5 years deployment
-+ 4. Space, 10 years deployment
+1. Indoor, 1 year deployment
+2. Outdoor, 2 years deployment
+3. Drones, 5 years deployment
+4. Space, 10 years deployment
 
 
 ## 1. Indoor
