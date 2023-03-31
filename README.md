@@ -19,6 +19,12 @@ uzasadnienie ekonomiczne jest tam, gdzie:
 + koszty użycia i wymiany baterii, akumulatorów są wyższe niż zakup wielu rectenna i anteny do transmisji energii
 
 
+### Koszty wdrożenia
+
++ wynajem laboratorium
++ dostęp do kadry inżynierskiej i instrumentów pomiarowych
++ wykonanie prototypu: https://www.hindawi.com/journals/ijap/2014/805052/
+
 
 ### Offer
 
