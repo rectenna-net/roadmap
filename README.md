@@ -21,7 +21,7 @@ uzasadnienie ekonomiczne jest tam, gdzie:
 
 ### Koszty wdrożenia
 
-+ wynajem laboratorium
++ wynajem laboratorium: http://www.elab.wiran.pl/index.php?a=dokumenty
 + dostęp do kadry inżynierskiej i instrumentów pomiarowych
 + wykonanie prototypu: https://www.hindawi.com/journals/ijap/2014/805052/
 
