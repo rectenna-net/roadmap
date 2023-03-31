@@ -21,9 +21,9 @@ uzasadnienie ekonomiczne jest tam, gdzie:
 
 ### Koszty wdrożenia
 
-+ wynajem laboratorium: http://www.elab.wiran.pl/index.php?a=dokumenty
-+ dostęp do kadry inżynierskiej i instrumentów pomiarowych
-+ wykonanie prototypu: https://www.hindawi.com/journals/ijap/2014/805052/
++ wynajem laboratorium: [ELAB - Cennik i regulamin](http://www.elab.wiran.pl/index.php?a=dokumenty)
++ dostęp do kadry inżynierskiej i instrumentów pomiarowych - politechniki
++ wykonanie prototypu: [A New Fractal-Based Miniaturized Dual Band Patch Antenna for RF Energy Harvesting](https://www.hindawi.com/journals/ijap/2014/805052/)
 
 
 ### Offer
