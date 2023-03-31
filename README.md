@@ -8,8 +8,41 @@
 
 ## 1. Indoor
 
-+ education
-+ research
++ rozwiązanie nie jest uzasadnione ekonomicznie konsumenckich zastosowaniach
++ może zastąpić zasilanie (baterię, akumulator) urządzeń o niskim poborze energii rzędu miliwatów
+
+
+uzasadnienie ekonomiczne jest tam, gdzie:
++ jednorazowo wykonujemy instalacje i nie mamy dostępu do tego miejsca, a zasilanie jest możliwe poprzez mikrofale w paśmie do 7Ghz
++ praca człowieka, personelu technicznego jest zbyt kosztowna
++ możliwe jest użycie dronów do wymiany całego urządzenia, sensorów, zamiast wymiany baterii
++ wysokie wymagania co do wpływu na środowisko, w zastosowaniach eko, gdzie akumulatory powszechnie stosowane są niezalecane
++ koszty użycia i wymiany baterii, akumulatorów są wyższe niż zakup wielu rectenna i anteny do transmisji energii
+
+
+
+### Offer
+
+#### Research
+
++ antennas
++ rectennas
++ energy harvesting
+
+#### Education, Workshops
+
++ possbile benefits with examples
++ The way to the Space as Space-based Solar Power Project - [www.energybeam.org - “The potential of the technology is to capture sunlight and then beam it wirelessly.” On Earth, this solar energy would then supply cities, factories, households and eventually aeroplanes with electricity. - energybeam.org](https://www.energybeam.org/)
++ security issues
++ health issues
+
+
+#### Solutions
+
++ starter: antenna on USB, rectenna on PCB
++ array rectenna for each band with more than 60% conversion indoor
++ AA / AAA batteries as replacement in low power devices for onetime/lifetime usage
++ eInk screen - lifetime power
 
 
 ### specification
@@ -30,10 +63,11 @@
 
 ### use case:
 
-+ supertag, sensors
-+ eInk screens - lifetime power
++ supertag
++ sensors
 + wireless price tag with a screen
-+ batteries AA / AAA replacement in low power devices
+
+
 
 
 
