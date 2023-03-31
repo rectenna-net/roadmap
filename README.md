@@ -13,6 +13,8 @@
 + distance: 10m
 + band: wifi 6e, wifi 7
 + frequency: 2.4 Ghz, 5Ghz, 6-7Ghz
++ power: < 10mW
+
 
 ### area:
 
@@ -39,22 +41,22 @@
 + distance: 100m
 + band: 5G
 + frequency: 26-35Ghz
-
++ power: < 100mW
 
 ### area:
 
-+ Transportation:
-  + refrigerated vehicles
++ Transportation  
 + Smart City:
   + sensors
-+ Wearable  
++ Wearable devices 
++ RPI Zero
 
 
 ### use case:
 
 + supertag
 + IoT sensors
-
++ refrigerated vehicles sensors
 
 
 
