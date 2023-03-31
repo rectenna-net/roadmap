@@ -8,8 +8,7 @@
 
 ## 1. Indoor
 
-+ rozwiązanie nie jest uzasadnione ekonomicznie konsumenckich zastosowaniach
-+ może zastąpić zasilanie (baterię, akumulator) urządzeń o niskim poborze energii rzędu miliwatów
+Rozwiązanie z Rectenna nie jest uzasadnione ekonomicznie w konsumenckich zastosowaniach, może zastąpić zasilanie (baterię, akumulator) urządzeń o niskim poborze energii rzędu miliwatów
 
 
 uzasadnienie ekonomiczne jest tam, gdzie:
