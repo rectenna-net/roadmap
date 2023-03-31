@@ -67,7 +67,7 @@
 + distance: > 1km
 + technology: microwaves
 + frequency: > 30 Ghz
-
++ beam forming
 
 ### area:
 
@@ -90,6 +90,7 @@
 
 + distance: > 10km
 + technology: microwaves + laser
++ beam forming
 
 ### use case:
 
