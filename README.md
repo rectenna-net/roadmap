@@ -1,12 +1,12 @@
 # [roadmap](http://roadmap.rectenna.net)
 
-+ indoor, 1 year deployment
-+ outdoor, 2 years deployment
-+ drones, 5 years deployment
-+ space, 10 years deployment
++ 1. Indoor, 1 year deployment
++ 2. Outdoor, 2 years deployment
++ 3. Drones, 5 years deployment
++ 4. Space, 10 years deployment
 
 
-## indoor
+## 1. Indoor
 
 ### specification
 
@@ -27,7 +27,7 @@
 
 
 
-## outdoor
+## 2. Outdoor
 
 
 ### specification:
@@ -56,7 +56,7 @@
 
 
 
-## drones
+## 3. Drones
 
 ### specification:
 
@@ -71,14 +71,26 @@
 + mobile vehicles
 
 
+### use case:
+
++ Antennas, rectennas for existing transport infrastructure
+ 
 
 
-## satellites
+
+## 4. Space
+
+
 
 ### specification:
 
-+ distance: > 1km
++ distance: > 10km
 + technology: microwaves + laser
+
+### use case:
+
++ Satellites to Satellites
++ Satellites to Ground
 
 
 ---
