@@ -8,6 +8,10 @@
 
 ## 1. Indoor
 
++ education
++ research
+
+
 ### specification
 
 + distance: 10m
@@ -29,7 +33,7 @@
 + supertag, sensors
 + eInk screens - lifetime power
 + wireless price tag with a screen
-+ batteryies AA / AAA replacement in low power devices
++ batteries AA / AAA replacement in low power devices
 
 
 
