@@ -16,12 +16,16 @@
 
 ### area:
 
-+ Industry
++ industry
++ dangerous environment
++ solutions operating for many years without external power supply
++ places inaccessible to humans
+
 
 ### use case:
 
-+ supertag
-+ eInk screens
++ supertag, sensors
++ eInk screens - lifetime power
 + wireless price tag with a screen
 + batteryies AA / AAA replacement in low power devices
 
