@@ -1,4 +1,4 @@
-# [roadmap](http://roadmap.rectenna.net)
+# [Roadmap](http://roadmap.rectenna.net)
 
 Harvesting energy in 4 steps and over 10 years of development. 
 From indoor to space solutions, from 1 meters to 30km with microwaves and laser technologies:
@@ -57,6 +57,9 @@ Examples:
 + [(PDF) A Compact 2.45-GHz Broadband Rectenna Using Grounded Coplanar Waveguide](https://www.researchgate.net/publication/273176687_A_Compact_245-GHz_Broadband_Rectenna_Using_Grounded_Coplanar_Waveguide)
 + [Search - Archive ouverte HAL](https://hal.science/search/index?q=rectenna)
 + [Always be charging: Can GuRu be the Wi-Fi of power? | ZDNET](https://www.zdnet.com/article/always-be-charging-can-guru-be-the-wi-fi-of-power/)
++ [Firm with Caltech Roots $15 Million Closer to Bringing True Wireless Power Technology to Mass Market - GuRu](https://guru.inc/firm-with-caltech-roots-15-million-closer-to-bringing-true-wireless-power-technology-to-mass-market/)
+
+
 
 ### specification
 
