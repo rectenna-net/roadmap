@@ -52,14 +52,25 @@ uzasadnienie ekonomiczne jest tam, gdzie:
 + AA / AAA batteries as replacement in low power devices for onetime/lifetime usage
 + eInk screen - lifetime power
 
+
 ### Research
+
++ [Search - Archive ouverte HAL](https://hal.science/search/index?q=rectenna)
++ [Why wireless charging is a terrible idea - ZDNET](https://www.zdnet.com/article/why-wireless-charging-a-terrible-idea/)
++ [Ansys HFSS - 3D High Frequency Simulation Software](https://www.ansys.com/products/electronics/ansys-hfss)
++ [Wireless Power Transfer System for Battery-Less Sensor Nodes - White Rose Research Online](https://eprints.whiterose.ac.uk/160866/)
+
+### Antenna
 
 + [A New Fractal-Based Miniaturized Dual Band Patch Antenna for RF Energy Harvesting](https://www.hindawi.com/journals/ijap/2014/805052/)
 + [(PDF) A Compact 2.45-GHz Broadband Rectenna Using Grounded Coplanar Waveguide](https://www.researchgate.net/publication/273176687_A_Compact_245-GHz_Broadband_Rectenna_Using_Grounded_Coplanar_Waveguide)
-+ [Search - Archive ouverte HAL](https://hal.science/search/index?q=rectenna)
-+ [Why wireless charging is a terrible idea | ZDNET](https://www.zdnet.com/article/why-wireless-charging-a-terrible-idea/)
++ [Rectenna Systems for RF Energy Harvesting and Wireless Power Transfer - CORE](https://core.ac.uk/display/322444910?source=2)
++ [Rectenna Systems for RF Energy Harvesting and Wireless Power Transfer - IntechOpen](https://www.intechopen.com/chapters/69576)
++ [Thirty-two element, 5.8 GHz rectenna array designed at LANL  - Download Scientific Diagram](https://www.researchgate.net/figure/Thirty-two-element-58-GHz-rectenna-array-designed-at-LANL_fig2_228341792)
++ [Rectenna Serves 2.45-GHz Wireless Power Transmission | Microwaves & RF](https://www.mwrf.com/technologies/systems/article/21845910/rectenna-serves-245ghz-wireless-power-transmission)
++ [Antenna Simulation Software for Design & Modeling — Remcom](https://www.remcom.com/antenna-design-simulation-software)
++ [Antenna Design & Modeling Software | Ansys](https://www.ansys.com/applications/antenna-design-and-placement)
 + 
-
 
 
 ### Devices
