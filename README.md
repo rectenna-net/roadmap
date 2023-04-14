@@ -129,7 +129,7 @@ uzasadnienie ekonomiczne jest tam, gdzie:
 ### use case:
 
 + Antennas, rectennas for existing transport infrastructure
- 
++ Warfare, [Joint Intermediate Force Capabilities Office > About > Frequently Asked Questions > Active Denial System FAQs](https://jnlwp.defense.gov/About/Frequently-Asked-Questions/Active-Denial-System-FAQs/) 
 
 
 
