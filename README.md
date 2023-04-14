@@ -58,7 +58,8 @@ Examples:
 + [Search - Archive ouverte HAL](https://hal.science/search/index?q=rectenna)
 + [Always be charging: Can GuRu be the Wi-Fi of power? | ZDNET](https://www.zdnet.com/article/always-be-charging-can-guru-be-the-wi-fi-of-power/)
 + [Firm with Caltech Roots $15 Million Closer to Bringing True Wireless Power Technology to Mass Market - GuRu](https://guru.inc/firm-with-caltech-roots-15-million-closer-to-bringing-true-wireless-power-technology-to-mass-market/)
-
++ [Solutions & Application - GuRu](https://guru.inc/solutions-application/)
++ 
 
 
 ### specification
