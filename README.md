@@ -47,10 +47,15 @@ uzasadnienie ekonomiczne jest tam, gdzie:
 #### Solutions
 
  
-+ STARTER KIT, rectenna on PCB - [A New Fractal-Based Miniaturized Dual Band Patch Antenna for RF Energy Harvesting](https://www.hindawi.com/journals/ijap/2014/805052/)
++ STARTER KIT, rectenna on PCB
 + array rectenna for each band with more than 60% conversion indoor
 + AA / AAA batteries as replacement in low power devices for onetime/lifetime usage
 + eInk screen - lifetime power
+
+Examples:
++ [A New Fractal-Based Miniaturized Dual Band Patch Antenna for RF Energy Harvesting](https://www.hindawi.com/journals/ijap/2014/805052/)
++ [(PDF) A Compact 2.45-GHz Broadband Rectenna Using Grounded Coplanar Waveguide](https://www.researchgate.net/publication/273176687_A_Compact_245-GHz_Broadband_Rectenna_Using_Grounded_Coplanar_Waveguide)
+
 
 
 ### specification
