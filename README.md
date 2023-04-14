@@ -148,6 +148,9 @@ uzasadnienie ekonomiczne jest tam, gdzie:
 + Satellites to Satellites
 + Satellites to Ground
 
+### Projects
+
++ [Caltech researchers are bringing space-based solar power from sci-fi to reality - www.caltech.edu](https://www.caltech.edu/about/news/space-solar-power-atwater-hajimiri-pellegrino)
 
 ---
 + [edit](https://github.com/rectenna-net/roadmap/edit/main/README.md)
