@@ -59,6 +59,10 @@ uzasadnienie ekonomiczne jest tam, gdzie:
 + [Why wireless charging is a terrible idea - ZDNET](https://www.zdnet.com/article/why-wireless-charging-a-terrible-idea/)
 + [Ansys HFSS - 3D High Frequency Simulation Software](https://www.ansys.com/products/electronics/ansys-hfss)
 + [Wireless Power Transfer System for Battery-Less Sensor Nodes - White Rose Research Online](https://eprints.whiterose.ac.uk/160866/)
++ [Energy Harvesting - an overview - ScienceDirect Topics](https://www.sciencedirect.com/topics/engineering/energy-harvesting)
++ [Piezoelectric Energy Harvesting Market 2023 Upcoming Trends and Forecast to 2028 - MarketWatch](https://www.marketwatch.com/press-release/piezoelectric-energy-harvesting-market-2023-upcoming-trends-and-forecast-to-2028-2023-03-28)
++ 
+
 
 ### Antenna
 
