@@ -52,14 +52,17 @@ uzasadnienie ekonomiczne jest tam, gdzie:
 + AA / AAA batteries as replacement in low power devices for onetime/lifetime usage
 + eInk screen - lifetime power
 
-Examples:
+### Research
 + [A New Fractal-Based Miniaturized Dual Band Patch Antenna for RF Energy Harvesting](https://www.hindawi.com/journals/ijap/2014/805052/)
 + [(PDF) A Compact 2.45-GHz Broadband Rectenna Using Grounded Coplanar Waveguide](https://www.researchgate.net/publication/273176687_A_Compact_245-GHz_Broadband_Rectenna_Using_Grounded_Coplanar_Waveguide)
 + [Search - Archive ouverte HAL](https://hal.science/search/index?q=rectenna)
+
+### Devices
+
 + [Always be charging: Can GuRu be the Wi-Fi of power? | ZDNET](https://www.zdnet.com/article/always-be-charging-can-guru-be-the-wi-fi-of-power/)
 + [Firm with Caltech Roots $15 Million Closer to Bringing True Wireless Power Technology to Mass Market - GuRu](https://guru.inc/firm-with-caltech-roots-15-million-closer-to-bringing-true-wireless-power-technology-to-mass-market/)
 + [Solutions & Application - GuRu](https://guru.inc/solutions-application/)
-+ 
++ [Long-distance wireless charging could power your smart home](https://www.cnet.com/home/smart-home/long-distance-wireless-charging-could-power-your-smart-home/)
 
 
 ### specification
