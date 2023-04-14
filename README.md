@@ -53,9 +53,14 @@ uzasadnienie ekonomiczne jest tam, gdzie:
 + eInk screen - lifetime power
 
 ### Research
+
 + [A New Fractal-Based Miniaturized Dual Band Patch Antenna for RF Energy Harvesting](https://www.hindawi.com/journals/ijap/2014/805052/)
 + [(PDF) A Compact 2.45-GHz Broadband Rectenna Using Grounded Coplanar Waveguide](https://www.researchgate.net/publication/273176687_A_Compact_245-GHz_Broadband_Rectenna_Using_Grounded_Coplanar_Waveguide)
 + [Search - Archive ouverte HAL](https://hal.science/search/index?q=rectenna)
++ [Why wireless charging is a terrible idea | ZDNET](https://www.zdnet.com/article/why-wireless-charging-a-terrible-idea/)
++ 
+
+
 
 ### Devices
 
