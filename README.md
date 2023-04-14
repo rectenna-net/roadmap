@@ -61,7 +61,8 @@ uzasadnienie ekonomiczne jest tam, gdzie:
 + [Wireless Power Transfer System for Battery-Less Sensor Nodes - White Rose Research Online](https://eprints.whiterose.ac.uk/160866/)
 + [Energy Harvesting - an overview - ScienceDirect Topics](https://www.sciencedirect.com/topics/engineering/energy-harvesting)
 + [Piezoelectric Energy Harvesting Market 2023 Upcoming Trends and Forecast to 2028 - MarketWatch](https://www.marketwatch.com/press-release/piezoelectric-energy-harvesting-market-2023-upcoming-trends-and-forecast-to-2028-2023-03-28)
-+ 
++ [Wireless power transmission from transmitting device into the home... - Download Scientific Diagram](https://www.researchgate.net/figure/Wireless-power-transmission-from-transmitting-device-into-the-home-appliances_fig7_333245589)
+
 
 
 ### Antenna
