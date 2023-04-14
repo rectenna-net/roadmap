@@ -33,7 +33,6 @@ uzasadnienie ekonomiczne jest tam, gdzie:
 
 #### Research
 
-+ antennas
 + rectennas
 + energy harvesting
 
@@ -47,7 +46,8 @@ uzasadnienie ekonomiczne jest tam, gdzie:
 
 #### Solutions
 
-+ starter: antenna on USB, rectenna on PCB
+ 
++ STARTER KIT, rectenna on PCB - [A New Fractal-Based Miniaturized Dual Band Patch Antenna for RF Energy Harvesting](https://www.hindawi.com/journals/ijap/2014/805052/)
 + array rectenna for each band with more than 60% conversion indoor
 + AA / AAA batteries as replacement in low power devices for onetime/lifetime usage
 + eInk screen - lifetime power
