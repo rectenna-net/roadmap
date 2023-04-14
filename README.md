@@ -56,7 +56,7 @@ Examples:
 + [A New Fractal-Based Miniaturized Dual Band Patch Antenna for RF Energy Harvesting](https://www.hindawi.com/journals/ijap/2014/805052/)
 + [(PDF) A Compact 2.45-GHz Broadband Rectenna Using Grounded Coplanar Waveguide](https://www.researchgate.net/publication/273176687_A_Compact_245-GHz_Broadband_Rectenna_Using_Grounded_Coplanar_Waveguide)
 + [Search - Archive ouverte HAL](https://hal.science/search/index?q=rectenna)
-
++ [Always be charging: Can GuRu be the Wi-Fi of power? | ZDNET](https://www.zdnet.com/article/always-be-charging-can-guru-be-the-wi-fi-of-power/)
 
 ### specification
 
