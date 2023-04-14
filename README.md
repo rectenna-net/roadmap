@@ -120,6 +120,8 @@ uzasadnienie ekonomiczne jest tam, gdzie:
 + refrigerated vehicles sensors
 
 
++ [Wireless Energy Solutions | Emrod](https://emrod.energy/products-services/)
++ 
 
 
 
