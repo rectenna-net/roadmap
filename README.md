@@ -83,7 +83,8 @@ uzasadnienie ekonomiczne jest tam, gdzie:
 + [Firm with Caltech Roots $15 Million Closer to Bringing True Wireless Power Technology to Mass Market - GuRu](https://guru.inc/firm-with-caltech-roots-15-million-closer-to-bringing-true-wireless-power-technology-to-mass-market/)
 + [Solutions & Application - GuRu](https://guru.inc/solutions-application/)
 + [Long-distance wireless charging could power your smart home](https://www.cnet.com/home/smart-home/long-distance-wireless-charging-could-power-your-smart-home/)
-
++ [Our Products and Services - Benefits of Powercast products are limitless](https://www.powercastco.com/our-products/)
++ 
 
 ### specification
 
